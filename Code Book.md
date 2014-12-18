@@ -1,16 +1,18 @@
-* Participants and Activities
+CODE BOOK
+
+A) Participants and Activities
 
 These variables are used to identify the person performing activity of daily living (ADL) as well as the activity type.
--	Participants: the participant -Subject ID 
+-	Participants: the participant -Subject ID. ID ranges from 1 to 30. 
 -	Activity: string activity name: 
- Walking
- Walking Upstairs
- Walking Downstairs
- Sitting
- Standing
- Laying
+   1) Walking
+   2) Walking Upstairs
+   3) Walking Downstairs
+   4) Sitting
+   5) Standing
+   6) Laying
 
-* Measurements on the mean and standard deviation.
+B) Measurements on the mean and standard deviation.
 
 There are 180 observations (30 subjects times 6 activities) and 81 columns (1 for participants, 1 for activity and 78 for aggregated features related to mean and std. The full list is:
 
