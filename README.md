@@ -1,15 +1,7 @@
-Getting_and_Cleaning_Data
+Project: Analysis of a Human Activity Recognition Database
 =========================
 
-Project: Analysis of a Human Activity Recognition Database
-
-JOHN HOPKINS UNIVERSTY THROUGH COURSERA
-
-    December 1st - December 31st, 2014 
-
-        Project- Manipulating Human Activity Recognition Database
-
-         Oscar Portillo
+JOHN HOPKINS UNIVERSTY THROUGH COURSERA. December 1st - December 31st, 2014 . Oscar Portillo
 
 This work analyses the Human Activity Recognition Database from Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto at Smartlab - Non Linear Complex Systems Laboratory (website: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones ) . The database is contains records of activities of daily living (ADL) from 30 subjects, carrying a waist-mounted smartphone with embedded inertial sensors.
 An R script called run_analysis.R is provided in this repository. The scrip does the following tasks: 
